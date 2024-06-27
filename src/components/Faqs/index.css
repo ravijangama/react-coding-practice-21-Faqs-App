@@ -1,0 +1,19 @@
+/* Write your code here. */
+.faq-bg-container {
+  background-color: #f1f5f8;
+  padding: 30px;
+  min-height: 100vh;
+}
+.faq-sub-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 16px;
+  height: 100vh;
+}
+.ul-container {
+  width: 90%;
+  padding-left: 0px;
+}

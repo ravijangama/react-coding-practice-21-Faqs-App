@@ -1,0 +1,13 @@
+/* Write your code here. */
+.faqItem-container {
+  list-style-type: none;
+  border: 1px solid #d7dae6;
+  padding: 0px 10px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+.question-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
